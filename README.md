@@ -30,8 +30,8 @@
 ### Issue 3: Git not configured
 - Problem: Commit failed due to missing Git username/email.
 - Solution: Configured Git using:
-  git config --global user.name "Your Name"
-  git config --global user.email "your@email.com"
+  git config --global user.name "Pranathi Chaganti"
+  git config --global user.email "pranathichaganti17@gmail.com"
 
 ## Conclusion
 Successfully installed all required tools, integrated them, and completed the setup by pushing the README file to GitHub.
